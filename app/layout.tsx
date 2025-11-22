@@ -3,7 +3,7 @@ import "./globals.css";
 import { Analytics } from "@vercel/analytics/react";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://hans-innoverse.vercel.app"),
+  metadataBase: new URL("https://hansinnoverse.vercel.app"),
   title: {
     default: "HansInnoverse Hackathon 2024",
     template: "%s | HansInnoverse Hackathon 2024",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     title: "HansInnoverse Hackathon 2024",
     description:
       "Join the HansInnoverse Hackathon at Hansraj College and showcase your talent in coding and innovation!",
-    url: "https://hans-innoverse.vercel.app",
+    url: "https://hansinnoverse.vercel.app",
     siteName: "HansInnoverse Hackathon 2024",
     images: [
       {
@@ -62,7 +62,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://hans-innoverse.vercel.app",
+    canonical: "https://hansinnoverse.vercel.app",
   },
   category: "Technology",
   verification: {

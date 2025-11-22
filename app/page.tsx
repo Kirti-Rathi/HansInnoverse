@@ -42,11 +42,11 @@ export default function Home() {
             "organizer": {
               "@type": "Organization",
               "name": "Ordinateur, Hansraj College",
-              "url": "https://hans-innoverse.vercel.app"
+              "url": "https://hansinnoverse.vercel.app"
             },
             "offers": {
               "@type": "Offer",
-              "url": "https://hans-innoverse.vercel.app/register",
+              "url": "https://hansinnoverse.vercel.app/register",
               "price": "0",
               "priceCurrency": "INR",
               "availability": "https://schema.org/InStock",
@@ -58,9 +58,9 @@ export default function Home() {
               "name": "Ordinateur - The Computer Science Society"
             },
             "image": [
-              "https://hans-innoverse.vercel.app/logo.png"
+              "https://hansinnoverse.vercel.app/logo.png"
             ],
-            "url": "https://hans-innoverse.vercel.app",
+            "url": "https://hansinnoverse.vercel.app",
             "audience": {
               "@type": "Audience",
               "audienceType": "College Students"

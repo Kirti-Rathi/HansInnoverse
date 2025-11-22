@@ -1,4 +1,4 @@
-![HansInnoverse Logo](hans-innoverse/public/logo.png)
+![HansInnoverse Logo](public/logo.png)
 
 Welcome to the official repository for **HansInnoverse Hackathon**, organized by **Ordinateur** at Hansraj College, University of Delhi. This event is a unique platform for innovation, collaboration, and problem-solving in the tech space.
 
