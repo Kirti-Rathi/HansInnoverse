@@ -108,9 +108,9 @@ const Footer: React.FC = () => {
         </div>
       </footer>
       <div className="h-[5vh] border-t border-gray-700 bg-gray-900 text-white flex justify-center items-center px-4 text-center">
-        <p className="text-sm flex sm:py-0 flex-col sm:flex-row">
-          <p className="mx-1">Copyright © 2025 हंसInnoverse | </p>
-          <p>
+        <div className="text-sm flex sm:py-0 flex-col sm:flex-row">
+          <span className="mx-1">Copyright © 2025 हंसInnoverse | </span>
+          <span>
             Designed and Developed by{" "}
             <a
               href="https://www.linkedin.com/in/kirti-rathi/"
@@ -127,8 +127,8 @@ const Footer: React.FC = () => {
             >
               Parth Ratra
             </a>
-          </p>
-        </p>
+          </span>
+        </div>
       </div>
     </>
   );
